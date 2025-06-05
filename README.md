@@ -7,8 +7,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=rslzrr&show_icons=true&theme=dark&locale=en&title_color=f544fc" alt="rslzrr" width="450">
       <br>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rslzrr&show_icons=true&theme=dark&locale=en&layout=compact&title_color=f544fc" alt="rslzrr" width="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rslzrr&show_icons=true&theme=dark&locale=en&layout=compact&title_color=f544fc" alt="rslzrr" width="220">
       &nbsp;
       &nbsp;
       &nbsp;
